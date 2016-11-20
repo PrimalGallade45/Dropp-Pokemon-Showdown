@@ -15,7 +15,7 @@ exports.proxyip = ['201.131.148.52'];
 //   in every Random Battle team.
 exports.potd = '';
 exports.superAdmins = {
-	"forliferesort": 1
+	"lhazl": 1
 };
 
 // crash guard - write errors to log file instead of crashing
